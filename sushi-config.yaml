@@ -1,7 +1,7 @@
 id: smart.who.int.ig-empty
 canonical: http://smart.who.int/ig-empty
 name: LabTest
-title:Laboratory Test IG 
+title: Laboratory Test IG 
 description: A starting point for building IGs
 status: draft # draft | active | retired | unknown
 experimental: false
